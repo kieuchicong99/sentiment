@@ -49,6 +49,7 @@ class FastTextSentiment(Base):
     def predict(self, train_file: None, test_file: str, lower_case: bool) -> pd.DataFrame:
         df = self.read_data(test_file, lower_case)
         df['pred'] = df['text'].apply(self.score)
+        print(df)
         return df
 
 

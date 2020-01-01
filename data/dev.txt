@@ -3047,3 +3047,95 @@ __label__5	Đóng gói sản phẩm rất đẹp và chắc chắn.
 __label__5	Ok trong tầm giá.
 __label__5	váy rất xinh, chất vải mịn mát,đặc biệt là may không bị ngắn so với chân mình, mặc đi chơi luôn mà ai cũng khen cả nhưng mình không thích chụp ảnh nên không feedback được cho shop.
 __label__5	Shop tư vấn nhiệt tình, hàng như hình, giao hàng gói cẩn thận, giá hợp lý.
+__label__5	Đẹp, Đóng gói sản phẩm rất đẹp và chắc chắn.
+__label__5	Vải bao đẹp.
+__label__5	Lần đầu mua hàng online mà ưng như thế !
+__label__5	Áo không dài như hình nhưng khá đẹp Đóng gói sản phẩm chắc chắn.
+__label__5	Y hình 👍.
+__label__5	Da mềm .
+__label__5	Giao hàng nhanh.
+__label__5	Vượt mong đợi.
+__label__5	Fom đẹpi.
+__label__5	Áo đẹp, chất đẹp, thích cực ❤️.
+__label__5	Mình mua hàng rất kén mà em túi này làm mình cực kì hài lòng.
+__label__5	Chất lượng sản phẩm tuyệt vời Đóng gói sản phẩm rất đẹp và chắc chắn Shop phục vụ rất tốt Rất đáng tiền Thời gian giao hàng rất nhanh.
+__label__5	Chất lượng sản phẩm tuyệt vời.
+__label__5	Rất ưng nhé shop!!!
+__label__5	Shop tư vấn k nhiệt tình lắm.
+__label__5	Túi đẹp , Dày và bóng gói hàng thì bao đẹp .
+__label__5	Áo đẹp from rộng chất vải ok nói chung là good.
+__label__5	Chất lượng sản phẩm tuyệt vời Áo rất đẹp vải mát mực in k bị trôi hay tróc❤ cực đáng đồng tiền.
+__label__5	Dày dặn lắm.
+__label__5	Rất đáng tiền.
+__label__5	Áo hợp với giá tiền.
+__label__5	Mac đã kinh khủng 👍🏼👍🏼👍🏼👍🏼 Đóng gói sản phẩm rất đẹp và chắc chắn Chất lượng sản phẩm tuyệt vời.
+__label__5	Thích cái tên người nhận chủ shop viết haha, váy lên dáng xinh lắm nhưng k chụp đc ảnh fb cho chủ shop rồi vì bận quá,hẹn cái váy sau nha.
+__label__5	Shop phục vụ tốt, thời gian giao hàng nhanh, chất vải cực đẹp.
+__label__5	Sản phẩm tốt tư vấn nhiệt tình 😍😍😍😍.
+__label__5	Cái này hơi bé so với người mặc nhưng cũng đẹp, đóng gói cẩn thận ok.
+__label__5	Giống y hình 100% ❤❤.
+__label__5	Phù hợp giá xiền :3.
+__label__5	Đóng gói sản phẩm chắc chắn Đóng gói sản phẩm chắc chắn.
+__label__5	Chất lượng sản phẩm tuyệt vời.
+__label__5	Đẹp.y hình.
+__label__5	Đóng gói sản phẩm rất đẹp và chắc chắn Thời gian giao hàng rất nhanh.
+__label__5	Rất đáng tiền Shop phục vụ rất tốt Đóng gói sản phẩm rất đẹp và chắc chắn.
+__label__5	vải đẹp mịn Chất lượng sản phẩm tuyệt vời.
+__label__5	Áo form rộng đẹp, bạn nào béo mặc ok nhé,thời gian giao hàng hơi lâu xíu nhưng do chị chủ đáng yêu nên tớ sẽ cho 5 sao😆😆😆.
+__label__5	Chất lượng sản phẩm tuyệt vời, balo đẹp chắc chắn, chất liệu da đẹp hơn trong hình khiến mình thực sự bất ngờ với mức giá rẻ.
+__label__5	Chưa khi nào mua đầm online mà ưng như lần này.
+__label__5	Giày đẹp như hình, sang chảnh, nhận hàng là bóc ra đi event liền, thanks shop.
+__label__5	Shop phục vụ rất tốt, thank shop nhe.
+__label__5	Đóng gói sản phẩm rất đẹp và chắc chắn,Chất lượng sản phẩm tuyệt vời.
+__label__5	Shop phục vụ rất tốt Rất đáng tiền Đóng gói sản phẩm rất đẹp và chắc chắn.
+__label__5	Mn ủng hộ shop nhé!
+__label__5	Chất lượng sản phẩm tuyệt vời Đóng gói sản phẩm rất đẹp và chắc chắn Thời gian giao hàng rất nhanh.
+__label__5	Chủ shop nhiệt tình thân thiện.
+__label__5	Đóng gói kỹ Đóng gói sản phẩm rất đẹp và chắc chắn.
+__label__5	Chất lượng sản phẩm tuyệt vời 😁 Đóng gói sản phẩm rất đẹp và chắc chắn 🎈 Thời gian giao hàng rất nhanh 👌.
+__label__5	Chất lượng sản phẩm tuyệt vời Đóng gói sản phẩm rất đẹp và chắc chắn Shop phục vụ rất tốt Thời gian giao hàng rất nhanh Rất đáng tiền.
+__label__5	3lớp lưới và 1lớp lót như miêu tả.
+__label__5	Áo màu trắng hơi mỏng, nhưng đẹp Rất đáng tiền.
+__label__5	Chất đẹp lắm, chủ shop tư vấn nhiệt tình.
+__label__5	Shop phục vụ rất tốt Rất đáng tiền Thời gian giao hàng rất nhanh cảm ơn shop sẽ ủng hộ shop dài dài.
+__label__5	Thời gian giao hàng rất nhanh, hàng y như hình luôn.
+__label__5	Áo đẹp đấy , Chất lượng sản phẩm ok.
+__label__5	Rất ngon.
+__label__5	Chất đẹp giày đi êm chân.
+__label__5	Mình rất hài lòng với sản phẩm.
+__label__5	Rất đáng tiền Chất lượng sản phẩm tuyệt vời.
+__label__5	Nhận đủ nên vẫn đánh giá 5 sao.
+__label__5	Sản phẩm đẹp, rất đáng tiền.
+__label__5	Shop phục vụ tốt.
+__label__5	Chất lượng sản phẩm tuyệt vời Đóng gói sản phẩm rất đẹp và chắc chắn Đóng gói sản phẩm rất đẹp và chắc chắn Rất đáng tiền Thời gian giao hàng rất nhanh.
+__label__5	Chất lượng sản phẩm tuyệt vời Đóng gói sản phẩm rất đẹp và chắc chắn Shop phục vụ rất tốt Rất đáng tiền Thời gian giao hàng rất nhanh.
+__label__5	Shop phục vụ rất tốt Rất đáng tiền Thời gian giao hàng rất nhanh .
+__label__5	Đẹp lắm luôn ạ, cám ơn shop nhiều nha 💋.
+__label__5	Chất lượng ok, chủ shop rất nhiệt tình, thời gian giao hàng nhanh, ngoài ra còn đc gửi tặng lời chúc và móc khoá rất đẹp!
+__label__5	Chất lượng sản phẩm tuyệt vời Đóng gói sản phẩm rất đẹp và chắc chắn Đóng gói sản phẩm rất đẹp và chắc chắn Shop phục vụ rất tốt Thời gian giao hàng rất nhanh.
+__label__5	Chất lượng sản phẩm tuyệt vời,màu đẹp, sản phẩm giống hình.
+__label__5	SP đẹp như mô tả, rất hài lòng.cám ơn người bán uy tín.
+__label__5	Chất lượng sản phẩm tuyệt vời Đóng gói sản phẩm rất đẹp và chắc chắn.
+__label__5	Quáaa xịnnnn luônnnn ❤️❤️❤️.
+__label__5	Hàng đẹp rất hài lòng Chất lượng sản phẩm tuyệt vời Đóng gói sản phẩm rất đẹp và chắc chắn Thời gian giao hàng rất nhanh Rất đáng tiền nên mua.
+__label__5	:'( hơi thất vọng cái váy hồng ko có cúc khóa như 2 cái kia và quần trong mỏng dính hơn 2 cái váy đen và xám , và váy xám size to hơn 2 cái kia 1 chút và đóng gói sản phẩm hơi khó bóc ạ , nhưng nói chung váy cũng rất xinh .
+__label__5	Đóng gói sản phẩm rất đẹp và chắc chắn.
+__label__5	Sản phẩm chất lượng 👍.
+__label__5	Đóng gói sản phẩm rất đẹp và chắc chắn Đóng gói sản phẩm rất đẹp và chắc chắn Chất lượng sản phẩm tuyệt vời Thời gian giao hàng rất nhanh Thời gian giao hàng rất nhanh Thời gian giao hàng rất nhanh.
+__label__5	Cho shop 5 sao.
+__label__5	Cho shop 5 sao.
+__label__5	Vải mềm tốt, chuẩn size, giá cả hợp lý, giao hàng nhanh ^^.
+__label__5	Chất lượng sản phẩm tuyệt vời.
+__label__5	Chất lượng sản phẩm tuyệt vời Vừa xinh với mình.
+__label__5	Áo đẹp lắm shop ❤️.
+__label__5	Excellent packaging...a little bit overkill but very well packed.
+__label__5	Chất lượng sản phẩm tuyệt vời...
+__label__5	Chất lượng sản phẩm tuyệt vời Đóng gói sản phẩm rất đẹp và chắc chắn Shop phục vụ rất tốt Rất đáng tiền Thời gian giao hàng rất nhanh sẽ ủng hộ tiep.
+__label__5	Chất lượng sản phẩm tuyệt vời Đóng gói sản Đóng gói sản phẩm chắc chắn Shop phục vụ rất tốt.
+__label__5	Vai va kiểu áo đẹp, shop bán hàng cũng ok.
+__label__5	Shop phục vụ rất tốt .Thời gian giao hàng rất nhanh..
+__label__5	Váy rất xinh dày dặn chắc chắn.
+__label__5	tốt mình hài lòng.
+__label__5	Chất lượng sản phẩm tuyệt vời.
+__label__5	Mặc khá đẹp.
+__label__5	T Chất lượng sản phẩm tuyệt vời.
