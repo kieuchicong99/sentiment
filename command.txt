@@ -1,0 +1,4 @@
+#training model
+python3 train_fasttext.py
+#predictor
+python3 predictor.py --method fasttext --model models/fasttext/model.bin 

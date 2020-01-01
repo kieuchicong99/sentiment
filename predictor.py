@@ -8,12 +8,16 @@ from plotter import plot_confusion_matrix
 from classifiers import *
 
 # Path to train & test data
-TRAIN_PATH = "data/sst/sst_train.txt"
-DEV_PATH = "data/sst/sst_dev.txt"
-TEST_PATH = "data/sst/sst_test.txt"
+TRAIN_PATH = "data/train.txt"
+DEV_PATH = "data/dev.txt"
+TEST_PATH = "data/test.txt"
 
 # List of currently implemented sentiment classification methods
 METHODS = {
+    'fasttext': {
+        'class': "FastTextSentiment",
+        'model': "models/fasttext/model.ftz"
+    },
     'flair': {
         'class': "FlairSentiment",
         'model': "models/flair/best-model-elmo.pt"
